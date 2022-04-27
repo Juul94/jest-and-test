@@ -23,7 +23,7 @@ function App() {
 
 function Search({ value, onChange, children }) {
   return (
-    <div className="container p-0 mb-4">
+    <div className="container p-0 mb-3">
       <h1 className="mb-5">React Testing</h1>
 
       <label htmlFor="search" className="form-label">
