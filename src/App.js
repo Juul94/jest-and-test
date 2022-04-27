@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="container">
       <Search value={search} onChange={handleChange}>
-        Search
+        Search:
       </Search>
 
       <p>
